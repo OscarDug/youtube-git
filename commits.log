@@ -1,0 +1,98 @@
+commit 961ad66b2eed13b9660fe5b8d3388afd97fdbee9
+Author: Oscar <ancduglas@gmail.com>
+Date:   Mon Oct 16 13:36:07 2023 -0400
+
+    Agregando dos parrafos
+
+commit 0e1b67b3d9fd911f3e128f0b041d3e2aa84a090e
+Merge: 6d226f8 cb219c5
+Author: Oscar <ancduglas@gmail.com>
+Date:   Mon Oct 16 13:32:56 2023 -0400
+
+    resolviendo conflicto estaciones del año confecha de inicio
+
+commit 6d226f8f255ef59db45d26d6bffc228aa5a68e4b
+Author: Oscar <ancduglas@gmail.com>
+Date:   Mon Oct 16 11:37:51 2023 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit cb219c5d7d666b59a9e00cf28ac947c09bb23331
+Author: Oscar <ancduglas@gmail.com>
+Date:   Mon Oct 16 11:37:51 2023 -0400
+
+    Agregando estaciones del año
+
+commit 3909d5b42560fe57552a5aa6e3d8300e871712f5
+Merge: 308ae5b e258ef3
+Author: Oscar <ancduglas@gmail.com>
+Date:   Sun Oct 15 09:56:17 2023 -0400
+
+    Resolviendo conflicto merge main - html en el docuemnto index.html
+
+commit e258ef3d3bb178b53cbe434bc849ce80bdede475
+Author: Oscar <ancduglas@gmail.com>
+Date:   Sun Oct 15 09:48:53 2023 -0400
+
+    Agregando index. js
+
+commit a80c3c950b0d119f7f25029d4628a3591c5532d1
+Author: Oscar <ancduglas@gmail.com>
+Date:   Sun Oct 15 09:45:06 2023 -0400
+
+    Comint
+
+commit 308ae5b889f31ca7e5fde6b3faa2f7baac17d540
+Author: Oscar <ancduglas@gmail.com>
+Date:   Sun Oct 15 09:41:59 2023 -0400
+
+    Agregando style
+
+commit 28b3a45ed7bd381ba86fad1217c92a3f3c0fda81
+Merge: ff838a1 5234d80
+Author: Oscar <ancduglas@gmail.com>
+Date:   Sun Oct 15 09:29:50 2023 -0400
+
+    Merge branch 'js'
+
+commit 5234d809b315cb1bb919dd0b28e4db5a9e68c5b5
+Author: Oscar <ancduglas@gmail.com>
+Date:   Sun Oct 15 09:22:16 2023 -0400
+
+    Creando index.js
+
+commit ff838a1406a8c0d487988793df31b80bf0c3385d
+Author: Oscar <ancduglas@gmail.com>
+Date:   Sun Oct 15 08:19:24 2023 -0400
+
+    creando style.css
+
+commit 4f0443b59fb47cfe81b4d3aefed56ac9ebee9785
+Author: Oscar <ancduglas@gmail.com>
+Date:   Sun Oct 15 08:11:33 2023 -0400
+
+    Creando index.html
+
+commit 3b33114a8e6b8b58997f48c3c936241e08614872
+Author: Oscar <ancduglas@gmail.com>
+Date:   Fri Oct 13 16:57:23 2023 -0400
+
+    Ignorando Archivos
+
+commit 9f4c5d42256bd71ec0e6a0ce6fd96c16bd72d204
+Author: OscarDuglas <111906423+OscarDug@users.noreply.github.com>
+Date:   Fri Oct 13 15:18:40 2023 -0400
+
+    Create LICENSE del repositorio
+
+commit 1931a00ccc3ec905efe276205f05c797ebfd6597
+Author: Oscar <ancduglas@gmail.com>
+Date:   Fri Oct 13 14:56:09 2023 -0400
+
+    Agregando contenido
+
+commit 1fc402a7babc1d17ca574450c7eec005d44f7545
+Author: Oscar <ancduglas@gmail.com>
+Date:   Fri Oct 13 14:03:46 2023 -0400
+
+    First commint

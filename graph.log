@@ -1,0 +1,24 @@
+* 0af8e25 Respaldando historial de commit
+* 961ad66 Agregando dos parrafos
+*   0e1b67b resolviendo conflicto estaciones del año confecha de inicio
+|\  
+| * cb219c5 Agregando estaciones del año
+* | 6d226f8 Agregando estaciones del año con fecha de inicio
+|/  
+*   3909d5b Resolviendo conflicto merge main - html en el docuemnto index.html
+|\  
+| * e258ef3 Agregando index. js
+| * a80c3c9 Comint
+* | 308ae5b Agregando style
+* |   28b3a45 Merge branch 'js'
+|\ \  
+| * | 5234d80 Creando index.js
+* | | ff838a1 creando style.css
+| |/  
+|/|   
+* | 4f0443b Creando index.html
+|/  
+* 3b33114 Ignorando Archivos
+* 9f4c5d4 Create LICENSE del repositorio
+* 1931a00 Agregando contenido
+* 1fc402a First commint
